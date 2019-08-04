@@ -1,0 +1,65 @@
+section h2 {
+  text-align: center;
+  color: lightgreen;
+  font-size: 3rem;
+}
+
+#userBetChoice{
+  color: white
+}
+
+#option{
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.rule{
+  float: right;
+  background-color: black;
+  width: 16%;
+}
+
+header{
+  background-color: black;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.bet{
+  background-color: black;
+  width:20%
+}
+
+#rules{
+  text-align:center;
+  color: lightgreen;
+}
+
+#reelOne, #reelTwo, #reelThree{
+  text-align: center;
+  color: white;
+}
+
+html{
+  background-image: url("slot.jpg");
+  background-size: cover;
+}
+
+#fifty{
+  background-color: lightgreen;
+  font-size: 1rem;
+  border-radius: 10%;
+}
+
+#userB{
+  font-size: 3rem;
+  color:green;
+}
+
+#five{
+  background-color: lightgreen;
+  font-size: 1rem;
+  border-radius: 10%;
+}
